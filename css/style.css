@@ -59,6 +59,7 @@ body {
     display: inline-flex;
     position: relative;
     padding: 10px;
+	text-decoration: none;
 }
 .menu>li>a::after{
     width: 100%;
