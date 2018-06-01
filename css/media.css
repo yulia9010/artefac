@@ -3,13 +3,12 @@
 /*header section*/
 
 
-@media all and (max-width: 1400px){
-    .navbar-light{
-        display: none;
-    }
-    .navbar{
-        display: none;
-    }
+.navbar-light{
+	display: none;
+}
+.navbar{
+	display: none;
+			
 
 
 }
